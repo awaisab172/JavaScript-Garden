@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "fomatto": "0.5.0",
-    "forever": "0.10.8",
+    "forever": "0.15.3",
     "jade": "0.35.0",
     "neko": "1.1.2",
     "marked": "~0.2.9",
